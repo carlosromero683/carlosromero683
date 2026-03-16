@@ -51,3 +51,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&layout=compact)](https://github.com/SrGobi/github-readme-stats)
 
 <!--[![KrlsRomero Stats](https://github-readme-stats.vercel.app/api?username=KrlsRomero&show_icons=true&theme=dark)-->
+
+## 📎Trabajando en ...
+![](./profile-3d-contrib/profile-season-animate.svg)
