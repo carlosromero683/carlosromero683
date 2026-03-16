@@ -2,7 +2,7 @@
 **Carlos Andrés Romero/Carlos Andrés Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <kbd>
-  <img width="354" height="476" border-radius:50%; alt="Image" src="https://images5.alphacoders.com/402/thumbbig-402208.webp" />
+  <img width="100%" height="100%" border-radius:50%; alt="Image" src="https://images5.alphacoders.com/402/thumbbig-402208.webp" />
 </kbd>
 
 ## About me in code
